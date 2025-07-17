@@ -23,6 +23,7 @@
 <br/>
 <br/>
 ---
+<br/>
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
